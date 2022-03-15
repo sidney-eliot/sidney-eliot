@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sidney/ Epicrex
-- 💚 I’m a 3d artist, programmer and am also interested in digital 2d art as well as game design
+- 💜 I’m a 3d artist, programmer and am also interested in digital 2d art as well as game design
 - 🧰 The software I use are: Blender, ZBrush, Substance Painter, Marmoset Toolbag, Clip Studio Paint and Unreal Engine
 - ⌨️ The programming languages I use are: C#, Python, Java and C++
 - 💞 I currently don't have any time to collaberate on projects
