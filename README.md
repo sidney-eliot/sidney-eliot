@@ -4,7 +4,7 @@
 - ⌨️ The programming languages I use are: C#, Python, Java and C++
 - 💞 I currently don't have any time to collaberate on projects
 - 📫 You can reach me through discord: Epicrex#6711
-- Most relevant git hubs:
+- Most relevant git hubs: [AnatomyForArtists](https://github.com/Epicrex/AnatomyForArtists/wiki)
 
 <!---
 Epicrex/Epicrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
