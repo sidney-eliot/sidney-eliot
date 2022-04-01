@@ -5,7 +5,6 @@
 - ⌨️ The programming languages I use are: Python, C#, Java and C++
 - 💞 I currently don't have any time to collaberate on projects
 - 📫 You can reach me through discord: Epicrex#6711
-
 ## Most relevant wikis
 - [3DArtistsHandbook](https://github.com/Epicrex/3DArtistsHandbook/wiki)
 - [AnatomyForArtists](https://github.com/Epicrex/AnatomyForArtists/wiki)
