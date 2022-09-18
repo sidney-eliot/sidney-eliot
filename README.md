@@ -3,7 +3,7 @@
 - 💜 I’m a 3d character artist, programmer and am also interested in digital 2d art as well as game design
 - 🧰 The software I use are: Blender, ZBrush, Substance Painter, 3d Coat, Marmoset Toolbag, Photoshop, Clip Studio Paint and Unreal Engine
 - ⌨️ The programming languages I use are: Python, Java and C++
-- 📫 You can reach me through discord: Epicrex#6711
+- 📫 You can reach me through discord: `Epicrex#6711`, or email: `sidney.eliot@proton.me`
 ## Most relevant wikis
 - [3DArtistsHandbook](https://github.com/Epicrex/3DArtistsHandbook/wiki)
 - [AnatomyForArtists](https://github.com/Epicrex/AnatomyForArtists/wiki)
