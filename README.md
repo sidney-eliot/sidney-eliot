@@ -4,7 +4,7 @@
 - 🧰 The software I use are: Blender, ZBrush, Substance Painter, 3d Coat, Marmoset Toolbag, Photoshop, Clip Studio Paint and Unreal Engine
 - ⌨️ The programming languages I use are: Python, Java and C++
 - 📫 You can reach me through discord: `Epicrex#6711`, or email: `sidney.eliot@proton.me`
-## Most relevant wikis
+## Most relevant wikisd
 - [3DArtistsHandbook](https://github.com/Epicrex/3DArtistsHandbook/wiki)
 - [AnatomyForArtists](https://github.com/Epicrex/AnatomyForArtists/wiki)
 
