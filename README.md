@@ -7,7 +7,6 @@
 ## Most relevant wikis
 - [3DArtistsHandbook](https://github.com/Epicrex/3DArtistsHandbook/wiki)
 - [AnatomyForArtists](https://github.com/Epicrex/AnatomyForArtists/wiki)
-
 <!---
 Epicrex/Epicrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
