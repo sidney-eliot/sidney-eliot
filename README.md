@@ -6,7 +6,7 @@
     |:-:|:-:|:-:|:-:|:-:
     |<a href="https://www.unrealengine.com/en-US/features"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label="/></a>|<a href="https://unity.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label="/></a>|<a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label="/></a>|`Clip Studio Paint`
 
-- ⌨️ The programming languages I use are:
+- ⌨️ The programming languages I use:
   |<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>|<a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>|<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
   |:-:|:-:|:-:|
   
