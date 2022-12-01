@@ -10,6 +10,14 @@
   |<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>|<a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>|<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
   |:-:|:-:|:-:|
   
+- 🗣️ I can speak:
+
+    |`English`|natively
+    |:-:|:-:
+    |`German`|**natively**
+    |`Frensh`|a bit
+    |`Japanese`|learning
+
 - 📫 You can reach me through:
     |<a href="https://discord.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/></a>|`Epicrex#6711`|or|<a href="https://proton.me/mail"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>|`sidney.eliot@proton.me`
     |:-:|:-:|:-:|:-:|:-:
