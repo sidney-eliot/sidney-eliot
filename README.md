@@ -23,7 +23,7 @@
     |:-:|:-:|:-:|:-:|:-:
 
 
-## Most Relevant Wikis of mine
+## Most Relevant Wikis
 - [**3D Artist's Handbook**](https://github.com/Epicrex/3DArtistsHandbook/wiki) ![stars](https://img.shields.io/github/stars/Epicrex/3DArtistsHandbook?color=%23A020F0&label=%E2%9C%A8)
 - [**Anatomy For Artist's**](https://github.com/Epicrex/AnatomyForArtists/wiki)
 <!---
