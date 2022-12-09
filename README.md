@@ -30,8 +30,18 @@
 
 
 ## Most Relevant Wikis
-- [**3D Artist's Handbook**](https://github.com/Epicrex/3DArtistsHandbook/wiki) <a href="https://github.com/Epicrex/3DArtistsHandbook/stargazers"><img src="https://img.shields.io/github/stars/Epicrex/3DArtistsHandbook?color=%23A020F0&label=%E2%9C%A8"/>
-- [**Anatomy For Artist's**](https://github.com/Epicrex/AnatomyForArtists/wiki)
+
+<a href="https://github.com/Epicrex/3DArtistsHandbook/wiki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Epicrex&repo=3dArtistsHandbook&theme=tokyonight" />
+</a>
+    
+<a href="https://github.com/Epicrex/AnatomyForArtists/wiki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Epicrex&repo=AnatomyForArtists&theme=tokyonight" />
+</a>
+    
+ ---       
+    
+<a href="https://open.spotify.com/user/t7ym2qcd6hh1l1clqey6soo5b?si=4726a1f73537412b"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label="/>    
 <!---
 Epicrex/Epicrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
