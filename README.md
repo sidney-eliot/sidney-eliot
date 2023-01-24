@@ -25,8 +25,8 @@
     |**`Japanese`**|learning
 
 - 📫 You can reach me through:
-    |<a href="https://discord.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/></a>|`Epicrex#6711`|or|<a href="https://proton.me/mail"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>|`sidney.eliot@proton.me`
-    |:-:|:-:|:-:|:-:|:-:
+    |<a href="https://discord.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/></a>|`Epicrex#6711`
+    |:-:|:-:
 
 
 ## Most Relevant Wikis
