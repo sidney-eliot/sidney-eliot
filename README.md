@@ -29,7 +29,7 @@
     |:-:|:-:
 
 
-## Most Relevant Wikis
+## My Most Relevant Wikis
 
 <a href="https://github.com/Epicrex/3DArtistsHandbook/wiki">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Epicrex&repo=3dArtistsHandbook&theme=tokyonight" />
