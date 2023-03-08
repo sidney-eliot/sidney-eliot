@@ -21,7 +21,7 @@
     |**`English`**|**natively**
     |:-:|:-:
     |**`German`**|**natively**
-    |**`Frensh`**|a bit
+    |**`French`**|a bit
     |**`Japanese`**|learning
 
 - 📫 You can reach me through:
