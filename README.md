@@ -40,7 +40,7 @@
 </a>
 
 <a href="https://github.com/Epicrex/3DArtistsHandbookAddonEdition/wiki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Epicrex&repo=AnatomyForArtists&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Epicrex&repo=3DArtistsHandbookAddonEdition&theme=tokyonight" />
 </a>
     
  ---       
