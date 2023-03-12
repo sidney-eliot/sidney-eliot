@@ -42,6 +42,11 @@
 <a href="https://github.com/Epicrex/3DArtistsHandbookAddonEdition/wiki">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Epicrex&repo=3DArtistsHandbookAddonEdition&theme=tokyonight" />
 </a>
+
+<a href="https://github.com/Epicrex/3DArtistsHandbookHotkeyEdition/wiki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Epicrex&repo=3DArtistsHandbookHotkeyEdition&theme=tokyonight" />
+</a>
+
     
  ---       
     
