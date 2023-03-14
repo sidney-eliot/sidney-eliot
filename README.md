@@ -1,12 +1,12 @@
 # Hi
 - 👋 Hi, I’m **Sidney** (Epicrex)
 - 💜 I’m a `3D Character Artist`, `Programmer` and am also interested in `Digital 2D Art` as well as `Game Design`. I also love [Anime and Manga](https://myanimelist.net/profile/Epicrex_Sidney)
-- 🧰 My 3d Art Software Toolkit consists of:
+- 🧰 My 3d Art software toolkit consists of:
     |<a href="https://www.blender.org/features/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label="/></a>|[**`ZBrush`**](https://pixologic.com/)|[**`Substance Painter`**](https://www.adobe.com/products/substance3d-painter.html)|[**`Marmoset Toolbag`**](https://marmoset.co/toolbag/)|[**`3D Coat`**](https://3dcoat.com/)
     |:-:|:-:|:-:|:-:|:-:
     |<a href="https://www.unrealengine.com/en-US/features"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label="/></a>|<a href="https://unity.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label="/></a>|<a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label="/></a>|[**`Clip Studio Paint`**](https://www.clipstudio.net/)|
 
-- 🧰 I intend to expand my Software Toolkit with:
+- 🧰 I intend to expand my software toolkit with:
 
     |<a href="https://www.cryengine.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CRYENGINE&color=000000&logo=CRYENGINE&logoColor=FFFFFF&label="/></a>|[**`Marvelous Designer`**](https://www.marvelousdesigner.com/)|[**`Fusion 360`**](https://www.autodesk.com/products/fusion-360)|[**`Mari`**](https://www.foundry.com/products/mari)|[**`Maya`**](https://www.autodesk.com/products/maya)|[**`Arnold`**](https://arnoldrenderer.com/)
     |:-:|:-:|:-:|:-:|:-:|:-:
