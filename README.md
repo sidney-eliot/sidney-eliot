@@ -25,7 +25,7 @@
     |**`Japanese`**|learning
 
 - 📫 You can reach me through:
-    |<a href="https://discord.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/></a>|`Epicrex#6711`
+    |<a href="https://discord.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/></a>|`epicrex`
     |:-:|:-:
 
 
