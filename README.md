@@ -31,8 +31,8 @@
 
 ## My Most Relevant Wikis
 
-<a href="https://github.com/Epicrex/3DArtistsHandbook/wiki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Epicrex&repo=3dArtistsHandbook&theme=tokyonight" />
+<a href="https://github.com/Epicrex/3d-artists-handbook/wiki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Epicrex&repo=3d-artists-handbook&theme=tokyonight" />
 </a>
     
 <a href="https://github.com/Epicrex/AnatomyForArtists/wiki">
