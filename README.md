@@ -1,6 +1,6 @@
 # Hi
 - 👋 Hi, I’m **Sidney** (Epicrex)
-- 💜 I’m a **`3D Character Artist`**, **`Programmer`** and am also interested in **`Digital 2D Art`**, **`Photography`** as well as **`Game Design`** and **`Website Design`**. I also love [Anime and Manga](https://myanimelist.net/profile/SidneyEliot).<br>I'm the author of the [3D Artists Handbook](https://github.com/Epicrex/3d-artists-handbook/wiki).
+- 💜 I’m a **`3D Character Artist`**, **`Programmer`** and am also interested in **`Digital 2D Art`**, **`Photography`** as well as **`Game Design`** and **`Website Design`**. I also love [Anime and Manga](https://myanimelist.net/profile/SidneyEliot).<br><br>I'm the author of the [3D Artists Handbook](https://github.com/Epicrex/3d-artists-handbook/wiki).
 - 🧰 My 3d art software toolkit consists of:
     |<a href="https://www.blender.org/features/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label="/></a>|[**`ZBrush`**](https://pixologic.com/)|[**`Substance Painter`**](https://www.adobe.com/products/substance3d-painter.html)|[**`Marmoset Toolbag`**](https://marmoset.co/toolbag/)|[**`3D Coat`**](https://3dcoat.com/)
     |:-:|:-:|:-:|:-:|:-:
