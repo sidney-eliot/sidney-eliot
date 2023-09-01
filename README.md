@@ -1,14 +1,20 @@
 # Hi
-- 👋 Hi, I’m **Sidney** (Epicrex)
-- 💜 I’m a **`3D Character Artist`**, **`Programmer`** and am also interested in **`Digital 2D Art`**, **`Photography`** as well as **`Game Design`** and **`Website Design`**. I also love [Anime and Manga](https://myanimelist.net/profile/SidneyEliot).<br><br>I'm the author of the [3D Artists Handbook](https://github.com/Epicrex/3d-artists-handbook/wiki).
+- 👋 I’m **Sidney** (Epicrex)
+- 💜 I’m a **`3D Character Artist`**, **`Programmer`** and am also interested in **`Digital 2D Art`**, **`Photography`** as well as **`Game Design`** and **`Website Design`**. I also love [Anime and Manga](https://myanimelist.net/profile/SidneyEliot).<br><br>I'm the author of the [3D Artists Handbook](https://github.com/Epicrex/3d-artists-handbook/wiki).<br><br>
 - 🧰 My 3d art software toolkit consists of:
-    |<a href="https://www.blender.org/features/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label="/></a>|[**`ZBrush`**](https://pixologic.com/)|[**`Substance Painter`**](https://www.adobe.com/products/substance3d-painter.html)|[**`Marmoset Toolbag`**](https://marmoset.co/toolbag/)|[**`3D Coat`**](https://3dcoat.com/)
-    |:-:|:-:|:-:|:-:|:-:
-    |<a href="https://www.unrealengine.com/en-US/features"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label="/></a>|<a href="https://unity.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label="/></a>|<a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label="/></a>|[**`Clip Studio Paint`**](https://www.clipstudio.net/)|
+
+|[Blender](https://www.blender.org/features)|[ZBrush](https://pixologic.com)|[**Substance Painter**](https://www.adobe.com/products/substance3d-painter.html)|[**Marmoset Toolbag**](https://marmoset.co/toolbag)
+|:-:|:-:|:-:|:-:
+|<img src="images/banner_blender.jpg" width="400">|<img src="images/banner_zbrush.jpg" width="400">|<img src="images/banner_substance_painter.jpg" width="400">|<img src="images/banner_marmoset_toolbag.jpg" width="400">
+|[**3D Coat**](https://3dcoat.com)|[**Unreal Engine**](https://www.unrealengine.com/en-US/features)|[**Unity**](https://unity.com/)|[**Photoshop**](https://www.adobe.com/products/photoshop.html)
+|<img src="images/banner_3d_coat.jpg" width="400">|<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label="/>|<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label="/>|<img src="images/banner_photoshop.jpg" width="400">
+|[**Clip Studio Paint**](https://www.clipstudio.net)|[**Procreate**](https://procreate.com/)||
+|<img src="images/banner_clip_studio_paint.jpg" width="400">|<img src="images/banner_procreate.jpg" width="400">||
+
 
 - 🧰 I intend to expand my software toolkit with:
 
-    |<a href="https://www.cryengine.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CRYENGINE&color=000000&logo=CRYENGINE&logoColor=FFFFFF&label="/></a>|[**`Marvelous Designer`**](https://www.marvelousdesigner.com/)|[**`Fusion 360`**](https://www.autodesk.com/products/fusion-360)|[**`Mari`**](https://www.foundry.com/products/mari)|[**`Maya`**](https://www.autodesk.com/products/maya)|[**`Arnold`**](https://arnoldrenderer.com/)
+    |[Cry Engine](https://www.cryengine.com)|[Marvelous Designer](https://www.marvelousdesigner.com/)|[Fusion 360](https://www.autodesk.com/products/fusion-360)|[Mari](https://www.foundry.com/products/mari)|[Maya](https://www.autodesk.com/products/maya)|[Arnold](https://arnoldrenderer.com/)
     |:-:|:-:|:-:|:-:|:-:|:-:
     
 
