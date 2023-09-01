@@ -1,7 +1,6 @@
-# Hi
-- 👋 I’m **Sidney** (Epicrex)
+# 👋 Hi, I’m Sidney (Epicrex)
 - 💜 I’m a **`3D Character Artist`**, **`Programmer`** and am also interested in **`Digital 2D Art`**, **`Photography`** as well as **`Game Design`** and **`Website Design`**. I also love [Anime and Manga](https://myanimelist.net/profile/SidneyEliot).<br><br>I'm the author of the [3D Artists Handbook](https://github.com/Epicrex/3d-artists-handbook/wiki).<br><br>
-- 🧰 My 3d art software toolkit consists of:
+- 🧰 My 3D art software toolkit consists of:
 
 |[Blender](https://www.blender.org/features)|[ZBrush](https://pixologic.com)|[**Substance Painter**](https://www.adobe.com/products/substance3d-painter.html)|[**Marmoset Toolbag**](https://marmoset.co/toolbag)
 |:-:|:-:|:-:|:-:
@@ -11,6 +10,7 @@
 |[**Clip Studio Paint**](https://www.clipstudio.net)|[**Procreate**](https://procreate.com/)||
 |<img src="images/banner_clip_studio_paint.jpg" width="400">|<img src="images/banner_procreate.jpg" width="400">||
 
+And of those **ZBrush** and **Blender** is where I spend most of my time.
 
 - 🧰 I intend to expand my software toolkit with:
 
