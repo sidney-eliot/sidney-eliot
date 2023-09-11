@@ -4,11 +4,11 @@
 
 |[Blender](https://www.blender.org/features)|[ZBrush](https://pixologic.com)|[**Substance Painter**](https://www.adobe.com/products/substance3d-painter.html)|[**Marmoset Toolbag**](https://marmoset.co/toolbag)
 |:-:|:-:|:-:|:-:
-|<img src="images/banner_blender.jpg" width="400">|<img src="images/banner_zbrush.jpg" width="400">|<img src="images/banner_substance_painter.jpg" width="400">|<img src="images/banner_marmoset_toolbag.jpg" width="400">
+|<a href="https://www.blender.org/features"><img src="images/banner_blender.jpg" width="400"></a>|<a href="https://pixologic.com"><img src="images/banner_zbrush.jpg" width="400"></a>|<a href="https://www.adobe.com/products/substance3d-painter.html"><img src="images/banner_substance_painter.jpg" width="400"></a>|<a href="https://marmoset.co/toolbag"><img src="images/banner_marmoset_toolbag.jpg" width="400"></a>
 |[**3D Coat**](https://3dcoat.com)|[**Unreal Engine**](https://www.unrealengine.com/en-US/features)|[**Unity**](https://unity.com/)|[**Photoshop**](https://www.adobe.com/products/photoshop.html)
-|<img src="images/banner_3d_coat.jpg" width="400">|<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label="/>|<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label="/>|<img src="images/banner_photoshop.jpg" width="400">
+|<a href="https://3dcoat.com"><img src="images/banner_3d_coat.jpg" width="400"></a>|<a href="https://www.unrealengine.com/en-US/features"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label="/></a>|<a href="https://unity.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label="/></a>|<a href="https://www.adobe.com/products/photoshop.html"><img src="images/banner_photoshop.jpg" width="400"></a>
 |[**Clip Studio Paint**](https://www.clipstudio.net)|[**Procreate**](https://procreate.com/)||
-|<img src="images/banner_clip_studio_paint.jpg" width="400">|<img src="images/banner_procreate.jpg" width="400">||
+|<a href="https://www.clipstudio.net"><img src="images/banner_clip_studio_paint.jpg" width="400"></a>|<a href="https://procreate.com/"><img src="images/banner_procreate.jpg" width="400"></a>||
 
 And of those **ZBrush** and **Blender** is where I spend most of my time.
 
