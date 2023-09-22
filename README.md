@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sidney (Epicrex)
+# 👋 Hi, I’m Sidney
 - 💜 I’m a **`3D Character Artist`**, **`Programmer`** and am also interested in **`Digital 2D Art`**, **`Photography`** as well as **`Game Design`** and **`Website Design`**. I also love [Anime and Manga](https://myanimelist.net/profile/SidneyEliot).<br><br>I'm the author of the [3D Artists Handbook](https://github.com/Epicrex/3d-artists-handbook/wiki).<br><br>
 - 🧰 My 3D art software toolkit consists of:
 
