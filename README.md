@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Sidney
-- 💜 I’m a **`3D Character Artist`**, **`Programmer`** and am also interested in **`Digital 2D Art`**, **`Photography`** as well as **`Game Design`** and **`Website Design`**. I also love [Anime and Manga](https://myanimelist.net/profile/SidneyEliot).<br><br>I'm the author of the [3D Artist's Handbook](https://github.com/Epicrex/3d-artists-handbook/wiki).<br><br>
+- 💜 I’m a **`3D Character Artist`**, **`Programmer`** and am also interested in **`Digital 2D Art`**, **`Photography`** as well as **`Game Design`** and **`Website Design`**, UX matters. I also love [Anime and Manga](https://myanimelist.net/profile/SidneyEliot).<br><br>I'm the author of the [3D Artist's Handbook](https://github.com/Epicrex/3d-artists-handbook/wiki).<br><br>
 - 🧰 My 3D art software toolkit consists of:
 
 |[Blender](https://www.blender.org/features)|[ZBrush](https://pixologic.com)|[**Substance Painter**](https://www.adobe.com/products/substance3d-painter.html)|[**Marmoset Toolbag**](https://marmoset.co/toolbag)
