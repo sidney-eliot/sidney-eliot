@@ -24,9 +24,9 @@ And of those **ZBrush** and **Blender** is where I spend most of my time.
   
 - 🗣️ I can speak:
 
-    |**`English`**|**natively**
+    |**`English`**|**native**
     |:-:|:-:
-    |**`German`**|**natively**
+    |**`German`**|**native**
     |**`French`**|a bit
     |**`Japanese`**|learning
 
