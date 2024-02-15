@@ -14,7 +14,7 @@ And of those **ZBrush** and **Blender** is where I spend most of my time.
 
 - 🧰 I intend to expand my software toolkit with:
 
-    |[Cry Engine](https://www.cryengine.com)|[Marvelous Designer](https://www.marvelousdesigner.com/)|[Fusion 360](https://www.autodesk.com/products/fusion-360)|[Mari](https://www.foundry.com/products/mari)|[Maya](https://www.autodesk.com/products/maya)|[Arnold](https://arnoldrenderer.com/)
+    |[Marvelous Designer](https://www.marvelousdesigner.com/)|[Maya](https://www.autodesk.com/products/maya)|[Cry Engine](https://www.cryengine.com)|[Fusion 360](https://www.autodesk.com/products/fusion-360)|[Mari](https://www.foundry.com/products/mari)|[Arnold](https://arnoldrenderer.com/)
     |:-:|:-:|:-:|:-:|:-:|:-:
     
 
