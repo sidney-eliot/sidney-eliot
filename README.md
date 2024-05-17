@@ -24,14 +24,14 @@ And of those **ZBrush** and **Blender** is where I spend most of my time.
   
 - 🗣️ I can speak:
 
-    |**`English`**|**native**
+    |**English**|native
     |:-:|:-:
-    |**`German`**|**native**
-    |**`French`**|a bit
-    |**`Japanese`**|learning
+    |**German**|native
+    |**French**|a bit
+    |**Japanese**|learning
 
 - 📫 You can reach me through:
-    |<a href="https://discord.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/></a>|`epicrex`
+    |<a href="https://discord.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/></a>|epicrex
     |:-:|:-:
     |<a href="https://www.linkedin.com/in/sidney-eliot"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">|[sidney-eliot](https://www.linkedin.com/in/sidney-eliot)
  ---       
