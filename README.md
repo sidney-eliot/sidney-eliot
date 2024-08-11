@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Sidney
-- 💜 I’m a **3D Character Artist**, **Programmer** and am also interested in **Digital 2D Art**, **Photography** as well as **Game Design** and **Interface Design**, UX matters.<br><br>I'm also the author of the [3D Artist's Handbook](https://github.com/sidney-eliot/3d-artists-handbook/wiki)<br><br>
+- 💜 I’m a **3D Character Artist**, **Programmer** and am also interested in **Digital 2D Art**, **Photography** as well as **Game Design** and **Interface Design**, UX matters.<br><br>Here my [ArtStation](https://www.artstation.com/sidney-eliot)<br><br>I'm also the author of the [3D Artist's Handbook](https://github.com/sidney-eliot/3d-artists-handbook/wiki)<br><br>
 - 🧰 My creative software toolkit consists of:
 
 |[Blender](https://www.blender.org/features)|[ZBrush](https://pixologic.com)|[**Substance Painter**](https://www.adobe.com/products/substance3d-painter.html)|[**Marmoset Toolbag**](https://marmoset.co/toolbag)
@@ -34,9 +34,11 @@ And of those **ZBrush** and **Blender** is where I spend most of my time.
     |<a href="https://discord.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/></a>|epicrex
     |:-:|:-:
     |<a href="https://www.linkedin.com/in/sidney-eliot"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">|[sidney-eliot](https://www.linkedin.com/in/sidney-eliot)
+    |<a href="https://www.artstation.com/sidney-eliot"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=ArtStation&color=222222&logo=ArtStation&logoColor=13AFF0&label=">|[sidney-eliot](https://www.artstation.com/sidney-eliot)
+
  ---       
     
-<a href="https://open.spotify.com/user/t7ym2qcd6hh1l1clqey6soo5b?si=4726a1f73537412b"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label="/>    
+<a href="https://open.spotify.com/user/t7ym2qcd6hh1l1clqey6soo5b?si=4726a1f73537412b"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label="/>
 <!---
 Epicrex/Epicrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
