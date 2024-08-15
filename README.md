@@ -8,8 +8,7 @@
 |[**3D Coat**](https://3dcoat.com)|[**Unreal Engine**](https://www.unrealengine.com/en-US/features)|[**Unity**](https://unity.com)|[**Photoshop**](https://www.adobe.com/products/photoshop.html)
 |<a href="https://3dcoat.com"><img src="images/banner_3d_coat.jpg" width="400"></a>|<a href="https://www.unrealengine.com/en-US/features"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label="/></a>|<a href="https://unity.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label="/></a>|<a href="https://www.adobe.com/products/photoshop.html"><img src="images/banner_photoshop.jpg" width="400"></a>
 |[**Clip Studio Paint**](https://www.clipstudio.net/en)|[**Procreate**](https://procreate.com)|[**Maya**](https://www.autodesk.com/products/maya/overview)|
-|<a href="https://www.clipstudio.net/en"><img src="images/banner_clip_studio_paint.jpg" width="400"></a>|<a href="https://procreate.com"><img src="images/banner_procreate.jpg" width="400"></a>|<a href="https://www.autodesk.com/products/maya/overview"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk+Maya&color=37A5CC&logo=Autodesk+Maya&logoColor=FFFFFF&label="/></a>
-|
+|<a href="https://www.clipstudio.net/en"><img src="images/banner_clip_studio_paint.jpg" width="400"></a>|<a href="https://procreate.com"><img src="images/banner_procreate.jpg" width="400"></a>|<a href="https://www.autodesk.com/products/maya/overview"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk+Maya&color=37A5CC&logo=Autodesk+Maya&logoColor=FFFFFF&label="/></a>|
 
 
 
