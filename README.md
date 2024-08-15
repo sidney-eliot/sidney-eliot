@@ -7,15 +7,19 @@
 |[<img src="images/banner_blender.jpg" width="400">](https://www.blender.org/features)|<a href="https://pixologic.com"><img src="images/banner_zbrush.jpg" width="400"></a>|<a href="https://www.adobe.com/products/substance3d-painter.html"><img src="images/banner_substance_painter.jpg" width="400"></a>|<a href="https://marmoset.co/toolbag"><img src="images/banner_marmoset_toolbag.jpg" width="400"></a>
 |[**3D Coat**](https://3dcoat.com)|[**Unreal Engine**](https://www.unrealengine.com/en-US/features)|[**Unity**](https://unity.com)|[**Photoshop**](https://www.adobe.com/products/photoshop.html)
 |<a href="https://3dcoat.com"><img src="images/banner_3d_coat.jpg" width="400"></a>|<a href="https://www.unrealengine.com/en-US/features"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label="/></a>|<a href="https://unity.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label="/></a>|<a href="https://www.adobe.com/products/photoshop.html"><img src="images/banner_photoshop.jpg" width="400"></a>
-|[**Clip Studio Paint**](https://www.clipstudio.net/en)|[**Procreate**](https://procreate.com)||
-|<a href="https://www.clipstudio.net/en"><img src="images/banner_clip_studio_paint.jpg" width="400"></a>|<a href="https://procreate.com"><img src="images/banner_procreate.jpg" width="400"></a>||
+|[**Clip Studio Paint**](https://www.clipstudio.net/en)|[**Procreate**](https://procreate.com)|[**Maya**](https://www.autodesk.com/products/maya/overview)|
+|<a href="https://www.clipstudio.net/en"><img src="images/banner_clip_studio_paint.jpg" width="400"></a>|<a href="https://procreate.com"><img src="images/banner_procreate.jpg" width="400"></a>|<a href="https://www.autodesk.com/products/maya/overview"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk+Maya&color=37A5CC&logo=Autodesk+Maya&logoColor=FFFFFF&label="/></a>
+|
+
+
+
 
 And of those **ZBrush** and **Blender** is where I spend most of my time.
 
 - 🧰 I intend to expand my software toolkit with:
 
-    |[Marvelous Designer](https://www.marvelousdesigner.com/)|[Maya](https://www.autodesk.com/products/maya)|[Cry Engine](https://www.cryengine.com)|[Plasticity](https://www.plasticity.xyz/)|[Mari](https://www.foundry.com/products/mari)|[Arnold](https://arnoldrenderer.com/)
-    |:-:|:-:|:-:|:-:|:-:|:-:
+    |[Marvelous Designer](https://www.marvelousdesigner.com/)|[Cry Engine](https://www.cryengine.com)|[Plasticity](https://www.plasticity.xyz/)|[Mari](https://www.foundry.com/products/mari)|[Arnold](https://arnoldrenderer.com/)
+    |:-:|:-:|:-:|:-:|:-:
     
 
 - ⌨️ The programming languages I use are:
