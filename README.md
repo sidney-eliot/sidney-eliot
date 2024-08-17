@@ -18,7 +18,7 @@ And of those **ZBrush** and **Blender** is where I spend most of my time.
 - 🧰 I intend to expand my software toolkit with:
 
     |[Marvelous Designer](https://www.marvelousdesigner.com/)|[Cry Engine](https://www.cryengine.com)|[Mari](https://www.foundry.com/products/mari)|[Arnold](https://arnoldrenderer.com/)
-    |:-:|:-:|:-:|:-:|:-:
+    |:-:|:-:|:-:|:-:
     
 
 - ⌨️ The programming languages I use are:
