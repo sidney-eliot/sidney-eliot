@@ -11,10 +11,6 @@
 |<a href="https://www.clipstudio.net/en"><img src="images/banner_clip_studio_paint.jpg" width="400"></a>|<a href="https://procreate.com"><img src="images/banner_procreate.jpg" width="400"></a>|<a href="https://www.autodesk.com/products/maya/overview"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk+Maya&color=37A5CC&logo=Autodesk+Maya&logoColor=FFFFFF&label="/></a>|
 
 
-
-
-And of those **ZBrush** and **Blender** is where I spend most of my time.
-
 - 🧰 I intend to expand my software toolkit with:
 
     |[Marvelous Designer](https://www.marvelousdesigner.com/)|[Cry Engine](https://www.cryengine.com)|[Mari](https://www.foundry.com/products/mari)|[Arnold](https://arnoldrenderer.com/)
