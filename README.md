@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Sidney
-- 💜 I’m a **3D Character Artist**, **Programmer** and am also interested in **Digital 2D Art**, **Photography** as well as **Game Design** and **Interface Design**; UX matters.<br><br>Here my [ArtStation](https://www.artstation.com/sidney-eliot)<br><br>I'm also the author of the [3D Artist's Handbook](https://github.com/sidney-eliot/3d-artists-handbook/wiki)<br><br>
+- 💜 I’m a **3D Character Artist**, **Programmer** and am also interested in **Digital 2D Art**, **Photography** as well as **Game Design** and **Interface Design**; UX matters.<br><br>Here's my [ArtStation](https://www.artstation.com/sidney-eliot)<br><br>I'm also the author of the [3D Artist's Handbook](https://github.com/sidney-eliot/3d-artists-handbook/wiki)<br><br>
 - 🧰 My creative software toolkit consists of:
 
 |[Blender](https://www.blender.org/features)|[ZBrush](https://pixologic.com)|[**Substance Painter**](https://www.adobe.com/products/substance3d-painter.html)|[**Marmoset Toolbag**](https://marmoset.co/toolbag)
