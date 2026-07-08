@@ -38,6 +38,8 @@
 
 &nbsp;&nbsp; (English or German, either is fine)
 
+
+🏳️‍⚧️🏳️‍🌈
 <!---
 <a href="https://open.spotify.com/user/t7ym2qcd6hh1l1clqey6soo5b?si=4726a1f73537412b"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label="/>
 Epicrex/Epicrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
