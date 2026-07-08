@@ -21,7 +21,7 @@
 
 &nbsp;&nbsp; :purple_heart: Other interests of mine include: Game design, Interface design (UX matters), Traditional art, Self-hosting stuff on my server & getting slapped in Souls-likes
 
-&nbsp;&nbsp; 🧰 My daily drivers when creating 3D assest
+&nbsp;&nbsp; 🧰 My daily drivers when creating 3D assests
 
 |[Blender](https://www.blender.org/features)|[ZBrush](https://pixologic.com)|[**Substance Painter**](https://www.adobe.com/products/substance3d-painter.html)|[**Marmoset Toolbag**](https://marmoset.co/toolbag)
 |:-:|:-:|:-:|:-:
