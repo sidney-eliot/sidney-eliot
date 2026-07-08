@@ -39,9 +39,11 @@
 &nbsp;&nbsp; (English or German, either is fine)
 
 
-🏳️‍⚧️🏳️‍🌈
+
 
 <div align="center">
+  🏳️‍⚧️🏳️‍🌈
+  <br>
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=sidney-eliot&theme=tokyonight"
     alt="sidney-eliot"
@@ -49,7 +51,7 @@
   />
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sindey-eliot&label=Page%20viewed&color=800080&style=flat" alt="Page viewed counter" width="80"/>
+  <img src="https://komarev.com/ghpvc/?username=sindey-eliot&label=Page%20viewed&color=800080&style=flat" alt="Page viewed counter" width="95"/>
 </div>
 
 
