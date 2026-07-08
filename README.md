@@ -19,7 +19,7 @@
 
 &nbsp;&nbsp; :keyboard: The main languages I use are: Python, Java & C++
 
-&nbsp;&nbsp; :purple_heart: Other interests of mine include: Game design, Interface design (UX matters), Traditional art, Self-hosting stuff on my server and getting slapped in Souls-likes
+&nbsp;&nbsp; :purple_heart: Other interests of mine include: Game design, Interface design (UX matters), Traditional art, Self-hosting stuff on my server & getting slapped in Souls-likes
 
 &nbsp;&nbsp; 🧰 My daily drivers when creating 3D assest
 
