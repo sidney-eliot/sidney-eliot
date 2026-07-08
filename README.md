@@ -1,39 +1,47 @@
-## 👋 Hey there
-- 💜 I’m a **3D Character** & **Tech Artist**, **Programmer** and am also interested in **Digital 2D Art**, **Photography** as well as **Game Design** and **Interface Design**; UX matters.<br><br>Here's my [ArtStation](https://www.artstation.com/sidney-eliot) & [Sketchfab](https://sketchfab.com/sidney-eliot)<br><br>I'm also the author of the [3D Artist's Handbook](https://sidney-eliot.github.io/3d-artists-handbook)<br><br>
-- 🧰 My creative software toolkit consists of:
+Portfolios:
+
+<a href="https://www.artstation.com/sidney-eliot">
+<img
+  src="https://img.shields.io/static/v1?style=flat-square&message=ArtStation&color=222222&logo=ArtStation&logoColor=13AFF0&label="
+  alt="Artstation Portfolio"
+  width="130"
+/>
+</a>
+
+<a href="https://sketchfab.com/sidney-eliot">
+<img
+  src="https://img.shields.io/static/v1?style=flat-square&logo=Sketchfab&message=Sketchfab&color=222222&logoColor=1caad9&labelColor=222222&label="
+  alt="Sketchfab Portfolio"
+  width="130"
+/>
+</a>
+<br>
+<br>
+
+
+3D artist & Programmer currently studying `Tech Art` at [Digital Arts and Entertainment](https://www.digitalartsandentertainment.be/) (Howest University of Applied Sciences)
+
+I'm also the author of the [3D Artist's Handbook](https://sidney-eliot.github.io/3d-artists-handbook) (which is currently on hold)
+
+The main languages I use are: Python, Java & C++
+
+Other interests of mine include: Game design, Interface design (UX matters), Traditional art, Self-hosting stuff on my server and getting slapped in Souls-likes
+
+- 🧰 My daily drivers when creating 3D assest:
 
 |[Blender](https://www.blender.org/features)|[ZBrush](https://pixologic.com)|[**Substance Painter**](https://www.adobe.com/products/substance3d-painter.html)|[**Marmoset Toolbag**](https://marmoset.co/toolbag)
 |:-:|:-:|:-:|:-:
 |[<img src="images/banner_blender.jpg" width="400">](https://www.blender.org/features)|<a href="https://pixologic.com"><img src="images/banner_zbrush.jpg" width="400"></a>|<a href="https://www.adobe.com/products/substance3d-painter.html"><img src="images/banner_substance_painter.jpg" width="400"></a>|<a href="https://marmoset.co/toolbag"><img src="images/banner_marmoset_toolbag.jpg" width="400"></a>
-|[**3D Coat**](https://3dcoat.com)|[**Unreal Engine**](https://www.unrealengine.com/en-US/features)||[**Photoshop**](https://www.adobe.com/products/photoshop.html)
-|<a href="https://3dcoat.com"><img src="images/banner_3d_coat.jpg" width="400"></a>|<a href="https://www.unrealengine.com/en-US/features"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label="/></a>||<a href="https://www.adobe.com/products/photoshop.html"><img src="images/banner_photoshop.jpg" width="400"></a>
-|[**Clip Studio Paint**](https://www.clipstudio.net/en)|[**Procreate**](https://procreate.com)|[**Maya**](https://www.autodesk.com/products/maya/overview)|[**Plasticity**](https://www.plasticity.xyz/)
-|<a href="https://www.clipstudio.net/en"><img src="images/banner_clip_studio_paint.jpg" width="400"></a>|<a href="https://procreate.com"><img src="images/banner_procreate.jpg" width="400"></a>|<a href="https://www.autodesk.com/products/maya/overview"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk+Maya&color=37A5CC&logo=Autodesk+Maya&logoColor=FFFFFF&label="/></a>|
+|[**3D Coat**](https://3dcoat.com)|[**Unreal Engine**](https://www.unrealengine.com/en-US/features)|[**Houdini**](https://www.sidefx.com/products/houdini/)|[**Photoshop**](https://www.adobe.com/products/photoshop.html)
+|<a href="https://3dcoat.com"><img src="images/banner_3d_coat.jpg" width="400"></a>|<a href="https://www.unrealengine.com/en-US/features"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label="/></a>|<a href="https://www.sidefx.com/products/houdini/"><img src="https://img.shields.io/badge/Houdini-FF4713?logo=houdini&logoColor=fff&style=for-the-badge"/></a>|<a href="https://www.adobe.com/products/photoshop.html"><img src="images/banner_photoshop.jpg" width="400"></a>
 
-
-- 🧰 I intend to expand my software toolkit with:
-
-    |[Marvelous Designer](https://www.marvelousdesigner.com/)|[Cry Engine](https://www.cryengine.com)|[Mari](https://www.foundry.com/products/mari)|[Arnold](https://arnoldrenderer.com/)
-    |:-:|:-:|:-:|:-:
-    
-
-- ⌨️ The programming languages I use are:
-  |<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>|<a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>|<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
-  |:-:|:-:|:-:|
   
-- 🗣️ I can speak:
-
-    |**English**|native
-    |:-:|:-:
-    |**German**|native
-    |**French**|a bit
-    |**Japanese**|learning
-
-- 📫 You can reach me through:
+- 📫 You can contact me through:
     |<a href="https://discord.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/></a>|epicrex
     |:-:|:-:
-    |<a href="https://www.linkedin.com/in/sidney-eliot"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">|[sidney-eliot](https://www.linkedin.com/in/sidney-eliot)
     |<a href="https://www.artstation.com/sidney-eliot"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=ArtStation&color=222222&logo=ArtStation&logoColor=13AFF0&label=">|[sidney-eliot](https://www.artstation.com/sidney-eliot)
+
+  English or German, either is fine
 
 <!---
 <a href="https://open.spotify.com/user/t7ym2qcd6hh1l1clqey6soo5b?si=4726a1f73537412b"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label="/>
