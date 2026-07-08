@@ -42,11 +42,14 @@
 🏳️‍⚧️🏳️‍🌈
 
 <div align="center">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidney-eliot&" alt="sidney-eliot" width="400"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sidney-eliot&theme=tokyonight"
+    alt="sidney-eliot"
+    width="400"
+  />
 </div>
-<br>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sindey-eliot&label=Page%20viewed&color=blue&style=flat" alt="Page viewed counter" width="80"/>
+  <img src="https://komarev.com/ghpvc/?username=sindey-eliot&label=Page%20viewed&color=800080&style=flat" alt="Page viewed counter" width="80"/>
 </div>
 
 
