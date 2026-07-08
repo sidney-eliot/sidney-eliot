@@ -51,8 +51,8 @@
   />
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sindey-eliot&label=Page%20viewed&color=800080&style=flat" alt="Page viewed counter" width="95"/>
-  <img src="https://img.shields.io/github/stars/sidney-eliot?label=Total%20repo%20stars&style=flat&color=800080" alt="Total repo stars" width="103"/>
+  <img src="https://komarev.com/ghpvc/?username=sindey-eliot&label=Page%20views&color=800080&style=flat" alt="Page views counter" width="98"/>
+  <img src="https://img.shields.io/github/stars/sidney-eliot?label=Repo%20stars&style=flat&color=800080" alt="Total repo stars" width="86"/>
 </div>
 
 
