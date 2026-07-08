@@ -40,9 +40,16 @@
 
 
 🏳️‍⚧️🏳️‍🌈
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sindey-eliot&label=Page%20viewed&color=blue&style=flat" alt="Page viewed counter" width="80"/></a>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidney-eliot&" alt="sidney-eliot" width="400"/>
 </div>
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sindey-eliot&label=Page%20viewed&color=blue&style=flat" alt="Page viewed counter" width="80"/>
+</div>
+
+
 <!---
 <a href="https://open.spotify.com/user/t7ym2qcd6hh1l1clqey6soo5b?si=4726a1f73537412b"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label="/>
 Epicrex/Epicrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
