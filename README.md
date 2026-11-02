@@ -45,9 +45,9 @@
   🏳️‍⚧️🏳️‍🌈
   <br>
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sidney-eliot&theme=tokyonight"
-    alt="sidney-eliot"
-    width="400"
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=sidney-eliot&theme=tokyonight"
+  alt="GitHub streak stats"
+  width="400"
   />
 </div>
 <div align="center">
